@@ -1,0 +1,13 @@
+// Written by Ben Sproull & Luke Zaki
+
+Method                  ArrayList Runtime       LinkedList Runtime      Explanation
+
+add(T element)             O(n)                         O(n)                Both of these functions use a while loop to iterate over the list to either get to the end in a Linked list or to stop when the next element is null.
+
+
+pairSwap()                 O(n)
+
+merge(List<T>otherList)    O(n)
+
+
+reverse()                  O(n)
